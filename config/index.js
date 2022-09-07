@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "o0Wid6eoapdLQvi_XaP5DgDTuQdw",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "2blVhTaWHa9JBiRmp0KmEo-B3LX_y0A8kYN8xQbTwjs",
+   *    useTemplateId: "egcLqgf7s-N_cTFCtOPgDxwGtf8AkUvDzzNXcqWnRJc",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o0Wid6eoapdLQvi_XaP5DgDTuQdw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "2blVhTaWHa9JBiRmp0KmEo-B3LX_y0A8kYN8xQbTwjs",
+      useTemplateId: "egcLqgf7s-N_cTFCtOPgDxwGtf8AkUvDzzNXcqWnRJc",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "老婆1", 
       id: "2blVhTaWHa9JBiRmp0KmEo-B3LX_y0A8kYN8xQbTwjs",
-      useTemplateId: "2blVhTaWHa9JBiRmp0KmEo-B3LX_y0A8kYN8xQbTwjs",
+      useTemplateId: "egcLqgf7s-N_cTFCtOPgDxwGtf8AkUvDzzNXcqWnRJc",
       province: "四川",
       city: "成都",
       openUrl: "https://wangxinleo.cn"
@@ -74,7 +74,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "2blVhTaWHa9JBiRmp0KmEo-B3LX_y0A8kYN8xQbTwjs",
+  CALLBACK_TEMPLATE_ID: "egcLqgf7s-N_cTFCtOPgDxwGtf8AkUvDzzNXcqWnRJc",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -106,18 +106,16 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "04-10"},
+    {"type": "生日", "name": "老婆", "year": "2006", "date": "04-10"},
     {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "05-27"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
-  ],
+    ],
 
   /**
    * 限制重要节日的展示条目, 需要填写数字; 
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 2,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
