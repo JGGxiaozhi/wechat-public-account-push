@@ -125,14 +125,8 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
-    // 结婚纪念日
-    {"keyword": "marry_day", date: "2020-01-04"},
-    // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
-    // sakana日
-    // {"keyword": "sakana_day", date: "2022-01-06"},
-    // ... 
+    {"keyword": "love_day", date: "2022-05-27"},
+
   ],
 
   /** 插槽 */
@@ -157,7 +151,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
+  LITERARY_PREFERENCE: "动漫"
 
 
 }
