@@ -46,7 +46,7 @@ export const config = {
     {
       name: "自己", 
       id: "o0Wid6aZPBE-CzIDimQzBh12p7ng",
-      useTemplateId: "xprkmLzzO3HIJpF7wwNxI0vM6ynbqGrWWM77hZjqbhY",
+      useTemplateId: "VeuejkPkvTgYdBSRgrlWvpVr_D6Pn82iqdmIm3F0Wn4",
       province: "四川",
       city: "成都",
       openUrl: "https://wangxinleo.cn"
@@ -54,17 +54,17 @@ export const config = {
     {
       name: "妈妈",
       id: "o0Wid6WWrZB_LGIUACyackabVKcs",
-      useTemplateId: "59x1JKLuMX2p0lyzeBlhVEM8vPwIdK4gyWrGgliz5Zw",
+      useTemplateId: "",
       province: "四川",
       city: "资阳",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
       name: "爸爸3", 
-      id: "",
+      id: "o0Wid6VI1l-kPs5wG4Q9mR0qSET8",
       useTemplateId: "",
-      province: "",
-      city: "",
+      province: "四川",
+      city: "资阳",
       openUrl: "https://wangxinleo.cn"
     }, 
   ],
