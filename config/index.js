@@ -60,7 +60,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "爸爸3", 
+      name: "爸爸", 
       id: "o0Wid6VI1l-kPs5wG4Q9mR0qSET8",
       useTemplateId: "w-RTS0WGPO5cpQ252o8PzNaJHiLX12wzhbPqwJUaOWQ",
       province: "四川",
