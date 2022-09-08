@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "2blVhTaWHa9JBiRmp0KmEo-B3LX_y0A8kYN8xQbTwjs",
+      id: "o0Wid6aZPBE-CzIDimQzBh12p7ng",
       useTemplateId: "egcLqgf7s-N_cTFCtOPgDxwGtf8AkUvDzzNXcqWnRJc",
       province: "四川",
       city: "成都",
@@ -77,7 +77,7 @@ export const config = {
   CALLBACK_TEMPLATE_ID: "egcLqgf7s-N_cTFCtOPgDxwGtf8AkUvDzzNXcqWnRJc",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: [o0Wid6aZPBE-CzIDimQzBh12p7ng
     {
       // 一般都填自己
       name: "自己",
