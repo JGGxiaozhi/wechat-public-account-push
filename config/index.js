@@ -54,7 +54,7 @@ export const config = {
     {
       name: "妈妈",
       id: "o0Wid6WWrZB_LGIUACyackabVKcs",
-      useTemplateId: "",
+      useTemplateId: "z2BO5O-DHro75IY6OQIDY-RUU_CQeRErfDg7zZgF2D8",
       province: "四川",
       city: "资阳",
       openUrl: "https://wangxinleo.cn"
@@ -62,7 +62,7 @@ export const config = {
     {
       name: "爸爸3", 
       id: "o0Wid6VI1l-kPs5wG4Q9mR0qSET8",
-      useTemplateId: "",
+      useTemplateId: "w-RTS0WGPO5cpQ252o8PzNaJHiLX12wzhbPqwJUaOWQ",
       province: "四川",
       city: "资阳",
       openUrl: "https://wangxinleo.cn"
