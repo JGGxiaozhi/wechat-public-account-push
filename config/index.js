@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o0Wid6eoapdLQvi_XaP5DgDTuQdw",
       // 你想对他发送的模板消息的模板ID
@@ -44,7 +44,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
+      name: "自己", 
       id: "o0Wid6aZPBE-CzIDimQzBh12p7ng",
       useTemplateId: "B7s6ggKY_TfC-sCx9wgGjo37QSz8LGsjKwxm4x3WIoY",
       province: "四川",
@@ -52,15 +52,15 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "妈妈",
+      id: "o0Wid6WWrZB_LGIUACyackabVKcs",
+      useTemplateId: "59x1JKLuMX2p0lyzeBlhVEM8vPwIdK4gyWrGgliz5Zw",
+      province: "四川",
+      city: "资阳",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆3", 
+      name: "爸爸3", 
       id: "",
       useTemplateId: "",
       province: "",
@@ -107,8 +107,9 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "老婆", "year": "2006", "date": "04-10"},
-    {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "05-27"},
-    ],
+    {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "05-27"}, 
+
+  ],
 
   /**
    * 限制重要节日的展示条目, 需要填写数字; 
